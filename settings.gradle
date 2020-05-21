@@ -1,0 +1,2 @@
+rootProject.name='RSS Mvvm'
+include ':app'

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RSS MVVM</string>
+    <string name="detail_title">Detail</string>
+    <string name="news_title">Latest News</string>
+</resources>
